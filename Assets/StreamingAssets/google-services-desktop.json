@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176879947085",
+    "firebase_url": "https://virtual-lab-65d18-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "virtual-lab-65d18",
+    "storage_bucket": "virtual-lab-65d18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176879947085:android:9914c461a4f89d1d213b04",
+        "android_client_info": {
+          "package_name": "com.NavGates.VirtualLab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176879947085-gk3vcpedn1o68fg7d8lnf1cch0pjp8hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qpx35N7ULIfazz9ckli9QZsM9l3H-eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176879947085-gk3vcpedn1o68fg7d8lnf1cch0pjp8hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
